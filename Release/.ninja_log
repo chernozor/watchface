@@ -1,0 +1,16 @@
+# ninja log v5
+1	14	0	res/locale/en_US/LC_MESSAGES/minimaldigitalwatch.mo	287f67edb02c3e8
+1	14	0	res/locale/ru_RU/LC_MESSAGES/minimaldigitalwatch.mo	aadd666e77d54343
+0	195	0	src/minimalwatch.o	26645686193eb41a
+196	271	0	minimalwatch	f5fa9b9e8aa98e52
+1	77	0	minimaldigitalwatch	eedd23a294107052
+1	196	0	src/minimalwatch.o	26645686193eb41a
+196	267	0	minimaldigitalwatch	eedd23a294107052
+0	252	0	src/minimalwatch.o	26645686193eb41a
+254	418	0	minimaldigitalwatch	eedd23a294107052
+1	303	0	src/minimalwatch.o	c4d125cc5052ee89
+304	425	0	minimaldigitalwatch	88321a7277f12c38
+0	189	0	src/minimalwatch.o	c4d125cc5052ee89
+189	273	0	minimaldigitalwatch	88321a7277f12c38
+0	319	0	src/minimalwatch.o	1be9e34b1bd6323a
+321	479	0	minimaldigitalwatch	c43c3bf3a149bdd3

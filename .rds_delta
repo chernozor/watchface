@@ -1,0 +1,15 @@
+#delete
+#add
+bin/minimaldigitalwatch
+res/
+res/locale/
+res/locale/en_US/
+res/locale/en_US/LC_MESSAGES/
+res/locale/en_US/LC_MESSAGES/minimaldigitalwatch.mo
+res/locale/ru_RU/
+res/locale/ru_RU/LC_MESSAGES/
+res/locale/ru_RU/LC_MESSAGES/minimaldigitalwatch.mo
+res/po/
+#modify
+author-signature.xml
+signature1.xml

@@ -1,0 +1,6 @@
+# ninja log v5
+1	25	0	res/locale/ru_RU/LC_MESSAGES/minimaldigitalwatch.mo	aadd666e77d54343
+1	25	0	res/locale/en_US/LC_MESSAGES/minimaldigitalwatch.mo	287f67edb02c3e8
+0	167	0	src/minimalwatch.o	3e73ec3e7678de05
+167	244	0	minimaldigitalwatch	eedd23a294107052
+4	192	0	minimaldigitalwatch	eedd23a294107052

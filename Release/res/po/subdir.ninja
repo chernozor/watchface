@@ -1,0 +1,10 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+
+potool = msgfmt
+poflags = 
+
+build res/locale/en_US/LC_MESSAGES/minimaldigitalwatch.mo: build_po ../res/po/en_US.po 
+build res/locale/ru_RU/LC_MESSAGES/minimaldigitalwatch.mo: build_po ../res/po/ru_RU.po 
